@@ -1,0 +1,41 @@
+Operations Performed By me in Excel for Data Exploration.
+
+1. Data Import & Cleaning
+- Import Data: Bring in datasets from CSV, databases, or APIs using Get & Transform (Power Query).
+- Remove Duplicates: Ensure unique records with the Remove Duplicates tool.
+- Text Functions: Use TRIM(), LEFT(), RIGHT(), MID(), TEXT() to clean and format text.
+- Error Handling: Apply IFERROR() or ISERROR() to manage invalid entries.
+- Data Validation: Restrict inputs with dropdowns or rules to maintain consistency.
+
+2. Data Structuring
+- Tables: Convert ranges into structured tables for easier filtering and referencing.
+- Named Ranges: Assign names to ranges for clarity in formulas.
+- Sorting & Filtering: Organize data by values, dates, or custom rules.
+
+3. Exploratory Analysis
+- Descriptive Statistics: Use AVERAGE(), MEDIAN(), MODE(), STDEV(), VAR() for quick insights.
+- Conditional Formatting: Highlight trends, outliers, or thresholds visually.
+- Pivot Tables: Summarize large datasets by categories, regions, or time periods.
+- Slicers & Timelines: Add interactive filters to pivot tables for dynamic exploration.
+
+4. Advanced Formulas
+- Lookup Functions: VLOOKUP(), HLOOKUP(), INDEX-MATCH for flexible searching.
+- Logical Functions: IF(), AND(), OR() for conditional analysis.
+- Aggregation Functions: SUMIFS(), COUNTIFS(), AVERAGEIFS() for multi-criteria calculations.
+- Array & Dynamic Functions: FILTER(), SORT(), UNIQUE(), SEQUENCE() for modern Excel workflows.
+
+5. Visualization
+- Charts: Line charts (trends), bar/column charts (comparisons), pie/donut charts (proportions).
+- Advanced Charts: Waterfall (profit breakdown), Histogram (distribution), Scatter (correlation).
+- Sparklines: Mini-trends inside cells for quick visual cues.
+- Dashboards: Combine charts, slicers, and KPIs into a single interactive view.
+
+6. Automation
+- Macros: Record repetitive tasks for one-click execution.
+- Power Query: Automate data cleaning and transformation pipelines.
+- Power Pivot: Handle large datasets with advanced modeling and DAX formulas.
+
+7. Scenario & Forecasting
+- What-If Analysis: Use Scenario Manager, Goal Seek, and Data Tables to test assumptions.
+- Forecast Sheets: Predict future trends using built-in forecasting tools.
+- Solver Add-In: Optimize decisions (e.g., resource allocation, cost minimization).
